@@ -1,0 +1,55 @@
+[
+    {
+        "id": "1",
+        "name": "Jawan",
+        "poster": "https://m.media-amazon.com/images/M/MV5BN2JkOTA1NzItMTFhMS00OTBkLWE2ZTktYWY5NTkyZGNkMGZjXkEyXkFqcGdeQXVyMTQzMTgzNzUy._V1_QL75_UY281_CR18,0,190,281_.jpg",
+        "src": "",
+        "story": "",
+        "genre": [],
+        "director": [],
+        "cast": []
+    },
+    {
+        "id": "2",
+        "name": "Adipurush",
+        "poster": "https://m.media-amazon.com/images/M/MV5BNThjYTYwYTQtZjViZi00YzZjLTg0YzUtNDZmYzIzMmU1MmNhXkEyXkFqcGdeQXVyMTE0MTY2Mzk2._V1_QL75_UY281_CR18,0,190,281_.jpg",
+        "src": "",
+        "story": "",
+        "genre": [],
+        "director": [],
+        "cast": []
+    },
+    {
+        "id": "2",
+        "name": "The Kerala Story",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMDRhMzhmN2QtYzQ0My00NzMwLTg4NjMtNzIyOWU3MTk3OTc3XkEyXkFqcGdeQXVyOTI3MzI4MzA@._V1_QL75_UY281_CR13,0,190,281_.jpg",
+        "src": "",
+        "story": "",
+        "genre": [],
+        "director": [],
+        "cast": []
+    },
+    {
+        "id": "3",
+        "name": "Tiger 3",
+        "poster": "https://m.media-amazon.com/images/M/MV5BOWQyZGExNDMtNWVhYy00NjVlLWE4M2YtODlmM2EzMDkzMDY4XkEyXkFqcGdeQXVyOTI3MzI4MzA@._V1_QL75_UY281_CR8,0,190,281_.jpg",
+        "src": "",
+        "story": "",
+        "genre": [],
+        "director": [],
+        "cast": []
+    },
+    {
+        "id": "4",
+        "name": "Gadar 2: The Katha Continues",
+        "poster": "https://m.media-amazon.com/images/M/MV5BZGEzMDJjNGUtYTFhZi00MDgyLWIzMzYtMzcwMDQyZjcyNGY1XkEyXkFqcGdeQXVyNTcwNTM5ODI@._V1_QL75_UY281_CR11,0,190,281_.jpg",
+        "src": "",
+        "story": "",
+        "genre": [],
+        "director": [],
+        "cast": []
+    }
+
+   
+   
+]

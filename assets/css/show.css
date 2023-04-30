@@ -1,0 +1,77 @@
+body {
+    background-color: black;
+    color: white;
+}
+
+.heading{
+    width: 30%;
+    margin-left: 20px;
+    margin-top: 20px;
+    padding-bottom: 5px;
+    font-size: 20px;
+    font-weight: 300;
+    border-bottom: 1px solid;
+}
+
+
+.showList{
+    padding: 20px;
+    display: flex;
+    flex-wrap: wrap;
+  
+}
+
+.showBox{
+    width: 150px;
+    padding: 5px;
+    margin: 5px;
+}
+
+.showBox:hover {
+    cursor: pointer;
+    transform: scale(1.1)
+}
+
+.showName {
+    word-wrap: break-word;
+    font-size: small;
+    
+}
+
+.poster{
+    height: 200px;
+    width: 150px;
+    border-radius: 5px;
+    box-shadow: 20px;
+}
+
+/* Upcoming Shows */
+.upShowBox{
+    width: 90px;
+    padding: 5px;
+    margin: 5px;
+}
+
+.upShowBox .poster{
+    height: 140px;
+    width: 90px;
+    border-radius: 5px;
+    box-shadow: 20px;
+}
+
+
+.upShowBox:hover{
+    cursor: pointer;
+    transform: scale(1.05)
+}
+
+
+@media screen and (max-width:768px) {
+    .heading{
+        width: 80%;
+        padding-bottom: 5px;
+        font-size: 18px;
+        font-weight: 300;
+        border-bottom: 1px solid;
+    }
+}

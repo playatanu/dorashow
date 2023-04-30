@@ -1,0 +1,38 @@
+[
+    {
+        "id": "1",
+        "name": "Ponniyin Selvan: Part Two",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMTU0MjViMDctMWM2Ni00MTE2LTkxYWYtYzExMzUwZDYwOTMwXkEyXkFqcGdeQXVyMTU3NDgzNzM4._V1_QL75_UX190_CR0,4,190,281_.jpg",
+        "src": "https://fastxyz.in/files/downloadmf/file_id_token.php?fid=OGo3ODRxNDVwMzQ0bWw2",
+        "story": "Arulmozhi Varman continues on his journey to become Rajaraja I, the greatest ruler of the historic Chola empire of south India.",
+        "genre": [
+            "Action",
+            "Drama",
+            "Adventure"
+        ],
+        "director": ["Mani Ratnam"],
+        "cast": [
+            "Vikram",
+            "Karthi","Jayam Ravi"
+        ]
+    },
+
+    {
+        "id": "2",
+        "name": "Kisi Ka Bhai Kisi Ki Jaan",
+        "poster": "https://m.media-amazon.com/images/M/MV5BZjk0ZjlhNDctMzAwZC00ZTAyLTliZTItOTRiNjMzNTAxODY3XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_QL75_UY281_CR3,0,190,281_.jpg",
+        "src": "https://fastxyz.in/files/downloadmf/file_id_token.php?fid=czZkbG9mcXNvaWRkMGVu",
+        "story": "The eldest brother refuses to marry since he believes it may create disharmony in his big family. His brothers, who've already found partners, come together to find a match for him.",
+        "genre": [
+            "Action",
+            "Drama",
+            "Comedy"
+        ],
+        "director": ["Farhad Samji"],
+        "cast": [
+            "Salman Khan",
+            "Poojs Hegde","Venkatesh Daggubati"
+        ]
+    }
+   
+]

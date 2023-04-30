@@ -1,0 +1,22 @@
+@font-face {
+    font-family: poppins;
+    src: url('../fonts/Poppins-Regular.ttf');
+}
+
+:root {
+    /* --primary-color :white;
+    --text-color:white; */
+}
+
+body {
+    margin: 0px;
+    font-family:poppins;
+}
+
+.container{
+    height: 100vh;
+}
+
+.space {
+    height: 20px;
+}
